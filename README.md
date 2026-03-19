@@ -6,5 +6,5 @@ This repository contains MATLAB implementations of classical SAR imaging algorit
 ***
 
 <p align="center">
-  <img src="figures/sar_image_diff_algo.png" alt="SAR image differentiation algorithm" width="600">
+  <img src="figures/sar_image_diff_algo.png" alt="SAR image differentiation algorithm" width="400">
 </p>
