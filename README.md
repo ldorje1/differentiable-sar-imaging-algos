@@ -9,4 +9,4 @@ This repository contains MATLAB implementations of classical SAR imaging algorit
 
 ***
 #### Dataset availability 
-Note: Raw SAR data is not included due to GitHub size limits. Please email me to request access.
+Note: Raw SAR data is not included in this repository due to GitHub size limits. Please email me at ldorje1@binghamton.edu if you need access to the dataset.
